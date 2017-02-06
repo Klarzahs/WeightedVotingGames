@@ -1,4 +1,4 @@
-package util;
+package com.schemmer.votinggames.util;
 
 import java.text.DecimalFormat;
 

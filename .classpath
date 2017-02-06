@@ -2,16 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/jcommon-1.0.23.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/jfreechart-1.0.19.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/jfreechart-1.0.19-experimental.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/jfreechart-1.0.19-swt.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/jfreesvg-2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/junit-4.11.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/orsoncharts-1.4-eval-nofx.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/orsonpdf-1.6-eval.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/servlet.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Thomas/Downloads/Neuer Ordner/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thomas/workspace/WeightedVotingGamesGraph/lib/swtgraphics2d.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

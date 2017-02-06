@@ -1,4 +1,4 @@
-package util;
+package com.schemmer.votinggames.util;
 
 
 import java.util.BitSet;
@@ -56,6 +56,22 @@ public class PowerSet<E> implements Iterator<Set<E>>,Iterable<Set<E>>{
     @Override
     public Iterator<Set<E>> iterator() {
         return this;
+    }
+    
+    @Override
+    public String toString(){
+    	String res = "";
+    	Iterator<Set<E>> it = this.iterator();
+    	while(it.hasNext()){
+    		res+=", {";
+    		Set<E> set = it.next();
+    		Iterator<E> it2 = set.iterator();
+    		while(it2.hasNext()){
+    			res+=it2.next()+", ";
+    		}
+    		res+="}";
+    	}
+    	return res;
     }
 
 }

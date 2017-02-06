@@ -1,4 +1,4 @@
-package util;
+package com.schemmer.votinggames.util;
 
 import java.util.Iterator;
 import java.util.Set;
